@@ -1,0 +1,27 @@
+Sample Input/Output
+Add Student:
+Enter student name: USP
+Enter roll number: 207
+Enter course: CSD
+Student added successfully!
+
+Display Students:
+Student Records:
++-------+-------------+------------------+
+| Name  | Roll Number |      Course      |
++-------+-------------+------------------+
+| USP   |     207     |      CSD         |        
++-------+-------------+------------------+
+
+Search for a Student:
+Enter the roll number of the student to search: 101
+Student Found:
++-------+-------------+------------------+
+| Name  | Roll Number |      Course      |
++-------+-------------+------------------+
+| USP   |     207     |        CSD       |
++-------+-------------+------------------+
+
+Delete a Student:
+Enter the roll number of the student to delete: 207
+Student deleted successfully!
